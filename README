@@ -1,0 +1,7 @@
+# No ubuntu 20.04
+#baixar script
+wget  https://raw.githubusercontent.com/taylordamaceno/emergency_cache_strategy/main/redis.sh 
+#Dar permissao
+chmod +x ./redis.sh 
+#executar o script
+./redis.sh
